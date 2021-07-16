@@ -41,6 +41,8 @@ nest new project-name
 6. Put :- Request Type
 7. Injectable :- Used for class that can be injected
 8. Header :- Used to add header to response
+9. Body :- Used to get Body of the req
+10. Param :- Url Parameters
 
 # Notes
 
